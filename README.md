@@ -38,6 +38,13 @@ I'm a passionate developer who loves building cool stuff and contributing to ope
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gurukrishnaa&theme=radical&margin-w=15&margin-h=15&row=2&column=4" />
+</p>
+
+---
+
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guru-krishnaa-8b31992b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
