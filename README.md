@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate developer who loves building cool stuff and contributing to open-source projects. I enjoy solving problems, learning new technologies, and sharing knowledge with the community.
+I'm a passionate developer who loves building cool stuff and contributing to open-source project. I enjoy solving problems, learning new technologies, and sharing knowledge with the community.
 
 ---
 
@@ -31,7 +31,7 @@ I'm a passionate developer who loves building cool stuff and contributing to ope
 
 ### 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gurukrishnaa&theme=radical)
 
 ---
 
