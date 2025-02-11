@@ -3,9 +3,9 @@
 
 # Hi there, I'm Guru Krishnaa! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&width=500&lines=Welcome+to+my+GitHub+Profile;Full-Stack+Developer;Tech+Geek+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&width=550&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Tech+Geek+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
----
+
 
 ### 🚀 About Me
 I'm a passionate developer who loves building cool stuff and contributing to open-source project. I enjoy solving problems, learning new technologies, and sharing knowledge with the community.
