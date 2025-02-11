@@ -52,7 +52,11 @@ I'm a passionate developer who loves building cool stuff and contributing to ope
 
 ![Octocat](https://github.com/Gurukrishnaa/Gurukrishnaa/blob/main/images/octocat.gif)
 
-![Snake Animation](https://raw.githubusercontent.com/Gurukrishnaa/Gurukrishnaa/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gurukrishnaa/Gurukrishnaa/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gurukrishnaa/Gurukrishnaa/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Gurukrishnaa/Gurukrishnaa/output/github-snake.svg" />
+</picture>
 
 ---
 
