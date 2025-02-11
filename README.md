@@ -51,9 +51,6 @@ I'm a passionate developer who loves building cool stuff and contributing to ope
 
 ---
 
-
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gurukrishnaa/Gurukrishnaa/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gurukrishnaa/Gurukrishnaa/output/github-snake.svg" />
@@ -62,4 +59,4 @@ I'm a passionate developer who loves building cool stuff and contributing to ope
 
 ---
 
-⭐️ From [Your Name](https://github.com/Gurukrishnaa)
+⭐️ From [Guru Krishnaa](https://github.com/Gurukrishnaa)
