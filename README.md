@@ -41,7 +41,7 @@ I'm a passionate developer who loves building cool stuff and contributing to ope
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guru-krishnaa-8b31992b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gurukrishnaa.k@gmail.com.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gurukrishnaa.k@gmail.com)
 
 ---
 
