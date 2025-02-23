@@ -38,6 +38,12 @@ I'm a passionate developer who loves building cool stuff and contributing to ope
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gurukrishnaa&theme=redical&hide_border=true" />
+</div>
+
+---
+
 ## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gurukrishnaa&theme=radical&margin-w=15&margin-h=15&row=2&column=4" />
