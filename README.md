@@ -14,14 +14,31 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 
 ### 🛠️ Tech Stack
 
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,react,nextjs,nodejs,express,fastapi,flask,tailwind,postgres,mysql,mongodb,firebase,sqlite,redis,git,github,docker,podman,githubactions,linux,vscode" alt="Tech Stack" />
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,solidity&theme=dark" alt="C++, C, Java, Python, JavaScript, TypeScript, Solidity" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,sklearn,huggingface" alt="AI and Data Science" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask,tailwind&theme=dark" alt="React, Next.js, Node.js, Express, FastAPI, Flask, Tailwind CSS" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite,redis&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Firebase, SQLite, Redis" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,linux,vscode&theme=dark" alt="Git, GitHub, Docker, GitHub Actions, Linux, VS Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" alt="Podman" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger and OpenAPI" />
 </p>
 
 ---
