@@ -7,14 +7,13 @@
 
 
 
-### 🚀 About Me
+###  About Me
 I'm a passionate developer who loves building cool stuff. I enjoy solving problems, learning new technologies, and sharing knowledge with the community.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
-## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,solidity&theme=dark" alt="C++, C, Java, Python, JavaScript, TypeScript, Solidity" />
@@ -43,7 +42,7 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&theme=radical)
 
@@ -52,7 +51,7 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 ---
 
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guru-krishnaa-8b31992b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gurukrishnaa.k@gmail.com)
