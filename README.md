@@ -46,7 +46,7 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 ###  GitHub Stats
 
 
-<table>
+<table width="100%" border="0" frame="void" rules="none" cellpadding="0" cellspacing="0">
   <tr>
     <td width="35%" align="center" valign="middle">
       <img
