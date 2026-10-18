@@ -54,21 +54,11 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"
-  width="60%"
+  width="50%"
   alt="GitHub Stats"
 />
 
 <br clear="all"/>
-
-<p align="right">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukrishnaa&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF"
-    width="60%"
-    alt="Top Languages"
-  />
-</p>
-
-
 
 ---
 
