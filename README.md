@@ -1,4 +1,4 @@
-
+![Dino](https://github.com/Gurukrishnaa/Gurukrishnaa/blob/main/images/dino.png)
 
 
 # Hi there, I'm Guru Krishnaa! 👋
