@@ -1,9 +1,10 @@
 ![Dino](https://github.com/Gurukrishnaa/Gurukrishnaa/blob/main/images/dino.png)
 
 
-# Hi there, I'm Guru Krishnaa! 👋
+# Hi there, I'm Guru Krishnaa! 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=00FF00&width=550&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;Tech+Geek+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00D9FF&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Things+for+the+Web;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
+
 
 
 
