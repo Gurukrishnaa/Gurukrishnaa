@@ -47,6 +47,12 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukrishnaa&layout=compact&theme=radical)
+<img
+  src="https://raw.githubusercontent.com/Gurukrishnaa/Gurukrishnaa/main/images/stats.png"
+  width="25%"
+  align="right"
+  alt="Pixel art"
+ />
 
 ---
 
