@@ -45,31 +45,29 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 
 ###  GitHub Stats
 
+<img
+  src="https://raw.githubusercontent.com/Gurukrishnaa/Gurukrishnaa/main/images/stats.png"
+  width="35%"
+  align="left"
+  alt="Pixel art"
+ />
 
-<table width="100%" border="0" frame="void" rules="none" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="35%" align="center" valign="middle">
-      <img
-        src="https://raw.githubusercontent.com/Gurukrishnaa/Gurukrishnaa/main/images/stats.png"
-        width="100%"
-        alt="Pixel Dino"
-      />
-    </td>
-    <td width="65%" valign="middle">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"
-        width="100%"
-        alt="GitHub Stats"
-      />
-      <br/>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukrishnaa&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF"
-        width="100%"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"
+  width="60%"
+  alt="GitHub Stats"
+/>
+
+<br clear="all"/>
+
+<p align="right">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukrishnaa&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF"
+    width="60%"
+    alt="Top Languages"
+  />
+</p>
+
 
 
 ---
