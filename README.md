@@ -3,7 +3,7 @@
 
 # Hi there, I'm Guru Krishnaa! 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00D9FF&vCenter=true&width=650&lines=Full-Stack+Developer;Building+Things+for+the+Web;Turning+Ideas+Into+Code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=149414&vCenter=true&width=650&lines=Full-Stack+Developer!!;Building+Things+for+the+Web!;Turning+Ideas+Into+Code!!!)](https://git.io/typing-svg)
 
 
 
