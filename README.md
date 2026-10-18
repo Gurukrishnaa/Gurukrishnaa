@@ -1,4 +1,4 @@
-![Octocat](https://github.com/Gurukrishnaa/Gurukrishnaa/blob/main/images/octocat.gif)
+![Octocat](https://github.com/Gurukrishnaa/Gurukrishnaa/blob/main/images/blob.png)
 
 
 # Hi there, I'm Guru Krishnaa! 👋
