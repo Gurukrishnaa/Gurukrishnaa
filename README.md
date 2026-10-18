@@ -49,7 +49,7 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukrishnaa&layout=compact&theme=radical)
 <img
   src="https://raw.githubusercontent.com/Gurukrishnaa/Gurukrishnaa/main/images/stats.png"
-  width="15%"
+  width="25%"
   align="left"
   alt="Pixel art"
  />
