@@ -45,9 +45,32 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 
 ###  GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukrishnaa&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <img
+        src="https://raw.githubusercontent.com/Gurukrishnaa/Gurukrishnaa/main/images/stats.png"
+        width="100%"
+        alt="Pixel Dino"
+      />
+    </td>
+    <td width="65%" valign="middle">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"
+        width="100%"
+        alt="GitHub Stats"
+      />
+      <br/>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukrishnaa&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF"
+        width="100%"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
