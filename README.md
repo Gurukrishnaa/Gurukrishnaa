@@ -47,7 +47,7 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=149414&icon_color=149414&text_color=C9D1D9&ring_color=149414&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=149414&icon_color=149414&text_color=C9D1D9&ring_color=149414&include_all_commits=true" />
 
   <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukrishnaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=149414&text_color=C9D1D9&langs_count=6" />
 
