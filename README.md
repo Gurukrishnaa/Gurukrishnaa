@@ -47,15 +47,15 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=149414&icon_color=149414&text_color=C9D1D9&ring_color=149414&include_all_commits=true" />
 
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukrishnaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukrishnaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=149414&text_color=C9D1D9&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-  <img width="55%" src="https://streak-stats.demolab.com?user=Gurukrishnaa&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+  <img width="55%" src="https://streak-stats.demolab.com?user=Gurukrishnaa&theme=transparent&hide_border=true&background=0D1117&ring=149414&fire=F97316&currStreakLabel=149414&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
 
