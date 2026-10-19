@@ -55,7 +55,7 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 
 <div align="center">
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=Gurukrishnaa&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+  <img width="55%" src="https://streak-stats.demolab.com?user=Gurukrishnaa&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 </div>
 
