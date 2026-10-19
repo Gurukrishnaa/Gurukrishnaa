@@ -59,6 +59,12 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 
 </div>
 
+<div align="center">
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gurukrishnaa&bg_color=0D1117&color=C9D1D9&line=A78BFA&point=F97316&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
+
 ---
 
 
