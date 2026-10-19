@@ -45,8 +45,13 @@ I'm a passionate developer who loves building cool stuff. I enjoy solving proble
 
 ###  GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukrishnaa&layout=compact&theme=radical)
+<div align="center">
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gurukrishnaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&ring_color=A78BFA&include_all_commits=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurukrishnaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" />
+
+</div>
 
 ---
 
